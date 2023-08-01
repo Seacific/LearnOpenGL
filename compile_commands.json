@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/sea/dev/LearnOpenGL",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/sea/dev/LearnOpenGL/include -I/Users/sea/dev/LearnOpenGL/Dependencies/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -framework Cocoa OpenGL IOKit -o CMakeFiles/LearnOpenGL.dir/Dependencies/src/glad.c.o -c /Users/sea/dev/LearnOpenGL/Dependencies/src/glad.c",
+  "file": "/Users/sea/dev/LearnOpenGL/Dependencies/src/glad.c"
+},
+{
+  "directory": "/Users/sea/dev/LearnOpenGL",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/sea/dev/LearnOpenGL/include -I/Users/sea/dev/LearnOpenGL/Dependencies/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -framework Cocoa OpenGL IOKit -o CMakeFiles/LearnOpenGL.dir/src/main.cpp.o -c /Users/sea/dev/LearnOpenGL/src/main.cpp",
+  "file": "/Users/sea/dev/LearnOpenGL/src/main.cpp"
+}
+]

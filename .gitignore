@@ -1,0 +1,10 @@
+
+*.o
+*.DS_Store
+LearnOpenGL
+Dependencies/lib/.DS_Store
+Shaders/.DS_Store
+src/.DS_Store
+Dependencies/.DS_Store
+Dependencies/include/.DS_Store
+Dependencies/include/glad/.DS_Store
